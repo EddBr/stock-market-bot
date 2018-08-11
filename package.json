@@ -1,0 +1,11 @@
+{
+  "name": "stock-market-bot",
+  "version": "1.0.0",
+  "description": "Will show you live (maximum 15 mins slow) data for stocks from the FUTSE 100.",
+  "main": "bot.js",
+  "author": "Edd",
+  "dependencies": {
+    "discord.io": "^2.5.3",
+    "winston": "^3.0.0"
+  }
+}

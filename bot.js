@@ -1,5 +1,6 @@
 const Discord = require("discord.js");
 const client = new Discord.Client();
+const {body} = snekfetch.ge(api_url);
 
 client.on("ready", () => {
   console.log("I am ready!");
